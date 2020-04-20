@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278297065693",
+    "firebase_url": "https://fluttermusified.firebaseio.com",
+    "project_id": "fluttermusified",
+    "storage_bucket": "fluttermusified.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278297065693:android:9763ea80426aba03318334",
+        "android_client_info": {
+          "package_name": "com.drbhatti.fluttermusified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278297065693-ntj8ak2qlgro0b5glmfv3br4qc8t1g2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXK_CiQ1vUflhV6h-5zDUYyIA_CEZuvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278297065693-ntj8ak2qlgro0b5glmfv3br4qc8t1g2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
